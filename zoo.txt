@@ -1,0 +1,6 @@
+Protovis
+Stacked Graphs
+small multiples
+Horizon graphs
+scatter plot matrix
+Parallel coordinates 
